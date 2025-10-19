@@ -34,12 +34,12 @@ This project aims to automate the key functionalities of the OrangeHRM Human Res
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/PoojaBagali48/Selenium_WebAutomation.git
+    git clone https://github.com/SwethaUjjeli/selenium_web_automation.git
 
 
 2. **Navigate to project folder**:
     ```sh
-    cd Selenium-WebAutomation
+    cd selenium_web_automation
     ```
 
 3. **Run the tests**:
@@ -60,6 +60,6 @@ This project aims to automate the key functionalities of the OrangeHRM Human Res
 
 For any queries or feedback, please reach out to:
 
-- [LinkedIn](https://linkedin.com/in/pooja-bagali-5196b21b9/)
-- [GitHub](https://github.com/PoojaBagali48)
+- [LinkedIn](https://www.linkedin.com/in/swetha14/)
+- [GitHub](https://github.com/SwethaUjjeli)
 
