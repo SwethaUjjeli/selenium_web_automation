@@ -35,6 +35,7 @@ public class Locators {
 			public static void highlight(WebDriver driver, WebElement element) {
 			JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
 			jsExecutor.executeScript("arguments[0].setAttribute('style', 'border:2px solid red; background:yellow')", element);//to highlight the fields
+			System.out.println("locators");
 		}
 
 	}
